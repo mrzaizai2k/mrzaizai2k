@@ -1,3 +1,5 @@
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -30,8 +32,6 @@ Background:
 - LONG Centre for Educational (Algorithm Engineer)
 - NAM A Bank (Lead Machine Learning Engineer)
 
-""You want WEAPONS? BOOKS are the best weapon in the world. ARM YOURSELF!""
-Looking for an affordable but efficient solution for your MACHINE LEARNING/ DEEP LEARNING tasks? You’ve come to the right place!
 
 Here is what I offer:
 - Present fluently in English https://youtu.be/2nnarNmz9tk
@@ -65,7 +65,8 @@ Think I’m the perfect fit for your project? Just send me a message! Thanks for
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrzaizai2k&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzaizai2k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzaizai2k&layout=compact&theme=vision-friendly-dark)](https://github.com/mrzaizai2k/github-readme-stats)
 
 ---
 
+>**You want WEAPONS? BOOKS are the best weapon in the world. ARM YOURSELF!**

@@ -6,21 +6,21 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mrzaizai2k&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hi 👋, I'm MAI CHI BAO</h1>
+<h1 align="center">Hi 👋, I'm MAI CHI BAO - MRZAIZAI2K </h1>
 <h3 align="center">An Algorithm/ML Engineer with expertise in AI, ML, and DL!</h3>
-<!-- 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/b%E1%BA%A3o-ch%C3%AD-6ab4971b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://youtube.com/@mrzaizai2k-ai704">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/maichibao">
-    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
-  </a>
+<div align="center" style="padding: 20px;">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/b%E1%BA%A3o-ch%C3%AD-6ab4971b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://youtube.com/@mrzaizai2k-ai704">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://www.kaggle.com/maichibao">
+      <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+    </a>
+  </div>
 </div>
 
 

@@ -11,7 +11,7 @@
 
 <div align="center" style="padding: 20px;">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/b%E1%BA%A3o-ch%C3%AD-6ab4971b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <a href="https://www.linkedin.com/in/baochiwork/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://youtube.com/@mrzaizai2k-ai704">

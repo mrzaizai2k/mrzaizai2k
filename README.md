@@ -29,7 +29,7 @@
 Background:
 - Ho Chi Minh City University of Technology (graduate)
 - LONG Centre for Educational (Algorithm Engineer)
-- NAM A Bank (Lead Machine Learning Engineer)
+- NAM A Bank (Senior - Lead Machine Learning Engineer)
 
 
 Here is what I offer:

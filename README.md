@@ -20,6 +20,9 @@
     <a href="https://www.kaggle.com/maichibao">
       <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
     </a>
+    <a href="https://dev.to/mrzaizai2k">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
+    </a>
   </div>
 </div>
 
@@ -27,21 +30,21 @@
 ### About Me :
 
 Background:
-- Ho Chi Minh City University of Technology (graduate)
-- LONG Centre for Educational (Algorithm Engineer)
-- NAM A Bank (Senior - Lead Machine Learning Engineer)
+- **NAM A Bank** (Senior - Lead Machine Learning Engineer)
+- **LONG Centre for Educational** (Algorithm Engineer)
+- **Ho Chi Minh City University of Technology** (Graduate)
 
 
 Here is what I offer:
 - Present fluently in English https://youtu.be/2nnarNmz9tk
 - MLOps with local/cloud tools (Git, Docker Container, CI/CD, workflow...) 
-- Python, C programming
+- Python, Javascript programming
 - Data preprocessing & analysis to understand the business insight (pandas, NumPy, SciPy)
 - Machine Learning building and modeling (classification, regression, time series)
 - Deep learning (TensorFlow, Pytorch, Keras)
 - Computer Vision (OpenCV, CNN model...)
 - Natural Language Processing
-- More – Simple Android App, MIT App, GUI Tkinter, Arduino,
+- More – Simple Android App, MIT App, GUI Tkinter, Arduino, ReactJS web
 
 Please take a look at my Portfolio to further understand what I'm capable of 
 

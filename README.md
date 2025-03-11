@@ -80,14 +80,13 @@ Think I’m the perfect fit for your project? Just send me a message! Thanks for
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrzaizai2k&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrzaizai2k)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzaizai2k&layout=compact&theme=vision-friendly-dark)](https://github.com/mrzaizai2k/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzaizai2k&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mrzaizai2k" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrzaizai2k&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mrzaizai2k" /></p>
 
 ---
 

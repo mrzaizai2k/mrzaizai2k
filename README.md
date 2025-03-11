@@ -82,7 +82,7 @@ Think I’m the perfect fit for your project? Just send me a message! Thanks for
 
 ### 🔥 &nbsp; My Stats :
 
-![GitHub Streak](https://img.shields.io/endpoint?url=https://streak-stats.demolab.com/api?user=mrzaizai2k)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrzaizai2k&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzaizai2k&layout=compact&theme=vision-friendly-dark)](https://github.com/mrzaizai2k/github-readme-stats)
 

@@ -34,17 +34,41 @@ Background:
 - **LONG Centre for Educational** (Algorithm Engineer)
 - **Ho Chi Minh City University of Technology** (Graduate)
 
+Here’s what I offer:  
 
-Here is what I offer:
-- Present fluently in English https://youtu.be/2nnarNmz9tk
-- MLOps with local/cloud tools (Git, Docker Container, CI/CD, workflow...) 
-- Python, Javascript programming
-- Data preprocessing & analysis to understand the business insight (pandas, NumPy, SciPy)
-- Machine Learning building and modeling (classification, regression, time series)
-- Deep learning (TensorFlow, Pytorch, Keras)
-- Computer Vision (OpenCV, CNN model...)
-- Natural Language Processing
-- More – Simple Android App, MIT App, GUI Tkinter, Arduino, ReactJS web
+✅ **Computer Vision & Image Processing**  
+- OCR (Optical Character Recognition) for document automation  
+- Image classification & object detection (e.g., product recognition, defect detection)  
+- Face recognition & biometric authentication  
+
+✅ **Natural Language Processing & AI Integration**  
+- Chatbots & virtual assistants  
+- Automated text summarization & sentiment analysis  
+- Generative AI (content generation, AI-powered writing tools)  
+
+✅ **MLOps & AI Deployment**  
+- Automating AI workflows (CI/CD, model monitoring)  
+- Deploying AI models to cloud & local environments (AWS, Azure, Docker, Kubernetes)  
+- Optimizing AI models for performance & scalability  
+
+✅ **AI & Machine Learning Solutions**  
+- Predictive analytics (forecasting sales, customer behavior, etc.)  
+- Fraud detection & anomaly detection  
+- Automated recommendation systems  
+
+✅ **Data Processing & Analytics**  
+- Cleaning, transforming, and visualizing business data  
+- Extracting actionable insights for decision-making  
+- Handling large datasets efficiently  
+
+✅ **Web & App Development**  
+- AI-powered web applications (ReactJS, JavaScript)  
+- Business automation dashboards  
+- Android apps for AI-driven solutions
+
+✅ **Embedded AI & IoT**  
+- AI-powered automation for embedded systems (Arduino, Raspberry Pi)  
+- Real-time data collection & processing for smart devices  
 
 Please take a look at my Portfolio to further understand what I'm capable of 
 

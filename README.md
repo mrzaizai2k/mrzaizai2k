@@ -1,30 +1,43 @@
-
-
 <div id="header" align="center">
+  
+  <br/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mrzaizai2k&style=flat-square&color=blue" alt=""></p>
+<p align="center">
+  <a href="https://mrzaizai2k.xyz" target="_blank">
+    🌐 <strong>Visit My Website</strong>
+  </a>
+  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrzaizai2k&style=flat-square&color=blue" alt=""/>
+</p>
 
 <h1 align="center">Hi 👋, I'm MAI CHI BAO - MRZAIZAI2K </h1>
 <h3 align="center">An Algorithm/ML Engineer with expertise in AI, ML, and DL!</h3>
 
 <div align="center" style="padding: 20px;">
   <div id="badges">
+    <a href="https://mrzaizai2k.xyz" target="_blank">
+      <img src="https://raw.githubusercontent.com/mrzaizai2k/Portfolio/master/frontend/src/Assets/mrzaizai2k_logo_white_main.png" alt="mrzaizai2k Logo" width="100" style="margin-bottom: 10px;"/>
+    </a>
     <a href="https://www.linkedin.com/in/baochiwork/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://youtube.com/@mrzaizai2k-ai704">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://www.kaggle.com/maichibao">
-      <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
-    </a>
     <a href="https://dev.to/mrzaizai2k">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
     </a>
+    <a href="https://www.kaggle.com/maichibao">
+      <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+    </a>
   </div>
 </div>
+
 
 
 ### About Me :

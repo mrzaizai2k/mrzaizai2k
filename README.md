@@ -43,10 +43,10 @@
 ### About Me :
 
 Background:
-- **Joblogic** (Senior - LLM Engineer)
-- **NAM A Bank** (Senior - Lead Machine Learning Engineer)
+- [**JOBLOGIC**](https://www.joblogic.com/) (Senior - LLM Engineer)
+- [**NAM A BANK**](https://www.namabank.com.vn/) (Senior - Lead Machine Learning Engineer)
 - **LONG Centre for Educational** (Algorithm Engineer)
-- **Ho Chi Minh City University of Technology** (Graduate)
+- [**Ho Chi Minh City University of Technology**](https://hcmut.edu.vn/) (Graduate)
 
 Here’s what I offer:  
 

@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://mrzaizai2k.xyz" target="_blank">
+  <a href="https://mrzaizai2k.com" target="_blank">
     🌐 <strong>Visit My Website</strong>
   </a>
   
@@ -20,7 +20,7 @@
 
 <div align="center" style="padding: 20px;">
   <div id="badges">
-    <a href="https://mrzaizai2k.xyz" target="_blank">
+    <a href="https://mrzaizai2k.com" target="_blank">
       <img src="https://raw.githubusercontent.com/mrzaizai2k/Portfolio/master/frontend/src/Assets/mrzaizai2k_logo_white_main.png" alt="mrzaizai2k Logo" width="100" style="margin-bottom: 10px;"/>
     </a>
     <a href="https://www.linkedin.com/in/baochiwork/">

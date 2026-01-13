@@ -43,6 +43,7 @@
 ### About Me :
 
 Background:
+- [**FPT SOFTWARE**](https://fptsoftware.com/) (Senior - AI Engineer)
 - [**JOBLOGIC**](https://www.joblogic.com/) (Senior - LLM Engineer)
 - [**NAM A BANK**](https://www.namabank.com.vn/) (Senior - Lead Machine Learning Engineer)
 - **LONG Centre for Educational** (Algorithm Engineer)
